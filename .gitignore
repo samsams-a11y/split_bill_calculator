@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.vite/
+.vitest-tmp/
+playwright-report/
+test-results/
+output/playwright/
